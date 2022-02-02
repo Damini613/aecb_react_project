@@ -1,0 +1,78 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8fcff;
+  height: 100vh;
+}
+
+.messageBackground {
+  background-color: red;
+  color: blue;
+}
+
+.loginText {
+  color: blue;
+  font-weight: 10;
+  /* text-align: left; */
+}
+
+.card {
+  padding: 20px;
+}
+
+.buttonStyle {
+  margin: 20px;
+  padding-left: 20px;
+}
+
+.formStyle {
+  padding: 10%;
+  /* justify-content:center */
+}
+
+.labelText {
+  font-weight: bold;
+}
+
+.contactUsText {
+  background-color: white;
+  border: 2px solid yellow;
+  color: black;
+}
+
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 60px 0 0 0; */
+  /* padding: 0 10%; */
+  /* padding-bottom: 0px; */
+  /* flex-direction: row-reverse; */
+}
+
+.linkText {
+  color: black;
+}
+
+.cardWidth {
+  width: 400px;
+}
+
+.spaceBetweenBox {
+  /* margin-left: 20px; */
+  text-align: center;
+  font-size: 20px;
+}
+
+.containeInfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 0px 5px 0px;
+  border-radius: 10px;
+  background-color: white;
+}
+
+.navStyle {
+}
